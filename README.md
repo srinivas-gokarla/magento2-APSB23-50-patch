@@ -1,4 +1,5 @@
 **CRITICAL Magento (Adobe Commerce) Patch For APSB23-50**
+
 APSB23-50 Patch for magento versions from 2.3.0 to 2.4.3
 
 More info is here
